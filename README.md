@@ -32,7 +32,7 @@ Este é um **site responsivo** desenvolvido para apresentar a MCODE, com foco em
 ## Como Usar
 1. Clone o projeto:
    ```bash
-   git clone [URL_DO_REPOSITORIO](https://github.com/GustavoMiec/robot_site_PROA)
+   git clone https://github.com/GustavoMiec/robot_site_PROA
    ```
 2. Abra o arquivo `index.html` no seu navegador favorito.
 3. Interaja com o robô 3D e explore as animações e efeitos visuais.
